@@ -1,0 +1,12 @@
+.cell{
+    width: 60px;
+    height: 60px;
+    border: 2px solid black;
+    cursor: pointer;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.gameOver{
+    color: red;
+}
